@@ -1,0 +1,110 @@
+﻿﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ведущий Константин Рябцев</title>
+        <meta charset="utf-8">
+        <meta name="csrf-token" content="J9I1JLCFXTzZtxvigelXJMd2pgEJdNuLloXKGhmr">
+        <meta name="description" content="Шоумен ведущий Константин Рябцев // Ведущий на свадьбу и корпоратив в Киеве">
+        <meta name="keywords" content="ведущий на свадьбу, праздник, корпоратив, свадебный ведущий, юбилей, мероприятий, новый год, корпоративный праздник, профессиональный, Киев">
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+        <link rel="shortcut icon" href="http://www.damaks.tv/images/favicon.ico">
+        <link href="css/main.css" type="text/css" rel="stylesheet"/>
+        <link href="css/media.css" type="text/css" rel="stylesheet"/>
+        <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css"/>
+        <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        <div class="main-wrap">
+            <header>
+                <div class="container">
+                    <div class="socials">
+                        <a href="https://www.instagram.com/kostyaryabtsev/" class="i-insta"></a>
+                        <a href="https://vk.com/konstantin_ryabtsev" class="i-vk"></a>
+                        <a href="https://www.facebook.com/ratatoora" class="i-fb"></a>
+                    </div>
+                    <nav class="inner-page">
+                        <a href="index.html">Главная</a>
+                        <a href="index.html" data-scroll="about">Обо мне</a>
+                        <a href="index.html" class=active>Видео</a>
+                        <a href="photo.html">Фото</a>
+                        <a href="index.html" data-scroll="look">Look</a>
+                        <a href="index.html" data-scroll="bonus">Отзывы</a>
+                        <a href="prices.html">Цены</a>
+                        <a href="index.html">Контакты</a>
+                    </nav>
+                    <a href="tel:+380502061592" class="phone">050-206-15-92</a>
+                    <div class="icon-holder js-menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="mobile-menu">
+                        <nav class="main-nav">
+                            <a href="index.html" data-scroll="top">Главная</a>
+                            <a href="index.html" data-scroll="about">Обо мне</a>
+                            <a href="video.html" class="active">Видео</a>
+                            <a href="photo.html" data-scroll="photo">Фото</a>
+                            <a href="index.html" data-scroll="look">Look</a>
+                            <a href="index.html" data-scroll="bonus">Отзывы</a>
+                            <a href="prices.html">Цены</a>
+                            <a href="index.html" data-scroll="contacts">Контакты</a>
+                        </nav>
+                    </div>
+                    <div class="mobile-menu">
+                        <nav>
+                            <a href="index.html">Главная</a>
+                            <a href="index.html" data-scroll="about">Обо мне</a>
+                            <a href="/#video"  class=active>Видео</a>
+                            <a href="photo.html">Фото</a>
+                            <a href="index.html" data-scroll="look">Look</a>
+                            <a href="index.html" data-scroll="bonus">Отзывы</a>
+                            <a href="prices.html">Цены</a>
+                            <a href="index.html">Контакты</a>
+                        </nav>
+                    </div>
+                    </div><!--container-->
+                </header>
+                <section>
+                    <div class="container padding-top">
+                        <h3>Видео</h3>
+                        <div class="fx-row video-50 clearfix">
+                            <div>
+                                <iframe class="actAsDiv" width="100%" height="320" src="https://www.youtube.com/embed/y6oHPwIv6mk?autoplay=0&amp;loop=0&amp;showinfo=1&amp;theme=dark&amp;color=red&amp;controls=1&amp;modestbranding=1&amp;start=0&amp;fs=1&amp;iv_load_policy=3&amp;wmode=transparent&amp;rel=1" frameborder="0" allowfullscreen=""></iframe>
+                            </div>
+                            <div>
+                                <iframe class="actAsDiv" width="100%" height="320" src="https://www.youtube.com/embed/W25RlUZm92E?autoplay=0&amp;loop=0&amp;showinfo=1&amp;theme=dark&amp;color=red&amp;controls=1&amp;modestbranding=1&amp;start=0&amp;fs=1&amp;iv_load_policy=3&amp;wmode=transparent&amp;rel=1" frameborder="0" allowfullscreen=""></iframe>
+                            </div>
+                            <div>
+                                <iframe class="actAsDiv" width="100%" height="320" src="https://www.youtube.com/embed/hPkoNnI8H_c?autoplay=0&amp;loop=0&amp;showinfo=1&amp;theme=dark&amp;color=red&amp;controls=1&amp;modestbranding=1&amp;start=0&amp;fs=1&amp;iv_load_policy=3&amp;wmode=transparent&amp;rel=1" frameborder="0" allowfullscreen=""></iframe>
+                            </div>
+                            <div>
+                                <iframe class="actAsDiv" width="100%" height="320" src="http://www.youtube.com/embed/FwJRXYpBPnY?autoplay=0&amp;loop=0&amp;showinfo=1&amp;theme=dark&amp;color=red&amp;controls=1&amp;modestbranding=1&amp;start=0&amp;fs=1&amp;iv_load_policy=3&amp;wmode=transparent&amp;rel=1" frameborder="0" allowfullscreen=""></iframe>
+                            </div>
+                            <div class="fx-row center-text">
+                                <a href="index.html" class="btn-primary"><< Вернуться на главную</a>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <script src="js/jquery-1.10.2.min.js"></script>
+                <!--validate-->
+                <script src="js/jquery.form.min.js "></script>
+                <script src="js/jquery.maskedinput.min.js "></script>
+                <script src="js/jquery.validate.min.js "></script>
+                <script src="js/validate.js "></script>
+                <script src="js/jquery.fancybox.js "></script>
+                <script src="js/jquery.lazyload.min.js "></script>
+                <script src="js/main.js "></script>
+                <script>
+                $(document).ready(function() {
+                $('.gallery a').fancybox();
+                $('.photo-block a').fancybox();
+                $('.photo-30 a').fancybox();
+                $('img.lazy').lazyload();
+                });
+                </script>
+                <!--slider-->
+                <!-- <script src="js/slick.min.js"></script>
+                <script src="js/slick.js"></script> -->
+            </body>
+        </html>

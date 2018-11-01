@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ведущий Константин Рябцев</title>
+		<meta charset="utf-8">
+		<meta name="csrf-token" content="J9I1JLCFXTzZtxvigelXJMd2pgEJdNuLloXKGhmr">
+		<meta name="description" content="Шоумен ведущий Константин Рябцев // Ведущий на свадьбу и корпоратив в Киеве">
+		<meta name="keywords" content="ведущий на свадьбу, праздник, корпоратив, свадебный ведущий, юбилей, мероприятий, новый год, корпоративный праздник, профессиональный, Киев">
+		<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+		<link rel="shortcut icon" href="images/favicon.ico">
+		<link href="css/main.css" type="text/css" rel="stylesheet"/>
+		<link href="css/media.css" type="text/css" rel="stylesheet"/>
+		<link href="css/mm.css" type="text/css" rel="stylesheet"/>
+		<link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css"/>
+		<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<div class="main-wrap">
+			<header>
+				<div class="container">
+					<div class="socials">
+						<a href="https://www.instagram.com/kostyaryabtsev/" class="i-insta"></a>
+						<a href="https://vk.com/konstantin_ryabtsev" class="i-vk"></a>
+						<a href="https://www.facebook.com/ratatoora" class="i-fb"></a>
+					</div>
+					<nav class="main-nav">
+						<a href="index.html" data-scroll="top">Главная</a>
+						<a href="index.html" data-scroll="about">Обо мне</a>
+						<a href="video.html" class="js-test" data-scroll="video">Видео</a>
+						<a href="photo.html" class="active">Фото</a>
+						<a href="javascript:void(0);" data-scroll="look">Look</a>
+						<a href="javascript:void(0);" data-scroll="bonus">Отзывы</a>
+						<a href="prices.html">Цены</a>
+						<a href="index.html" data-scroll="contacts">Контакты</a>
+					</nav>
+					<a href="tel:+380502061592" class="phone">+38(068)9896545</a>
+					<div class="icon-holder js-menu">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
+					<div class="mobile-menu">
+						<nav class="main-nav">
+							<a href="index.html" data-scroll="top">Главная</a>
+							<a href="index.html" data-scroll="about">Обо мне</a>
+							<a href="video.html">Видео</a>
+							<a href="photo.html" data-scroll="photo">Фото</a>
+							<a href="javascript:void(0);" data-scroll="look">Look</a>
+							<a href="javascript:void(0);" data-scroll="bonus">Отзывы</a>
+							<a href="prices.html">Цены</a>
+							<a href="index.html" data-scroll="contacts">Контакты</a>
+						</nav>
+					</div>
+					</div><!--container-->
+				</header>
+				<section>
+					<div class="container padding-top">
+						<h3>ФОТОГАЛЕРЕЯ</h3>
+						<div class="fx-row clearfix photo-30">
+							<div class="w-33">
+								<a href="images/upload/1.jpg" rel="main-gallery">
+									<img src="images/upload/1.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/2.jpg" rel="main-gallery">
+									<img src="images/upload/2.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/3.jpg" rel="main-gallery">
+									<img src="images/upload/3.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/4.jpg" rel="main-gallery">
+									<img src="images/upload/4.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/5.jpg" rel="main-gallery">
+									<img src="images/upload/5.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/6.jpg" rel="main-gallery">
+									<img src="images/upload/6.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/13.jpg" rel="main-gallery">
+									<img src="images/upload/13.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/8.jpg" rel="main-gallery">
+									<img src="images/upload/8.jpg" alt="">
+								</a>
+							</div>
+							<div class="w-33">
+								<a href="images/upload/15.jpg" rel="main-gallery">
+									<img src="images/upload/15.jpg" alt="">
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+				<div class="fx-row center-text">
+					<a href="index.html" class="btn-primary"><< Вернуться на главную</a>
+				</div>
+			</div>
+		</section>
+	</div>
+	<script src="js/jquery-1.10.2.min.js"></script>
+	<!--validate-->
+	<script src="js/jquery.form.min.js "></script>
+	<script src="js/jquery.maskedinput.min.js "></script>
+	<script src="js/jquery.validate.min.js "></script>
+	<script src="js/validate.js "></script>
+	<script src="js/jquery.fancybox.js "></script>
+	<script src="js/jquery.lazyload.min.js "></script>
+	<script src="js/main.js "></script>
+	<script>
+	$(document).ready(function() {
+		$('.gallery a').fancybox();
+	$('.photo-block a').fancybox();
+	$('.photo-30 a').fancybox();
+	$('img.lazy').lazyload();
+	});
+	</script>
+</body>
+</html>
